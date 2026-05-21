@@ -9,12 +9,6 @@ Unity 3D 태양계 구현 프로젝트입니다.
 - 일부 행성의 위성 구현
 - Unity C# 스크립트를 사용한 회전 시스템 제작  
 ---
-
-## Video
-
-- `Video/0521 (1).mp4`
-
----
 ## Implemented Celestial Bodies
 
 ### Sun
